@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "isbn": "1111",
+      "title": "Node Basics",
+      "author": "John Doe",
+      "reviews": {
+        "user1": "Great book!"
+      }
+    },
+    {
+      "isbn": "2222",
+      "title": "Learning Express",
+      "author": "Jane Doe",
+      "reviews": {}
+    }
+  ]
+}
